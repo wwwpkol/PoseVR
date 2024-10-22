@@ -1,2 +1,3 @@
 # PoseVR
-Official code will be released soon.
+youtube：https://youtu.be/S6rpvbZIxfM
+B站：https://www.bilibili.com/video/BV1FZ2nYUEwL
